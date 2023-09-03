@@ -1,20 +1,37 @@
 package org.example;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
+import jakarta.persistence.*;
+
+import java.util.ArrayList;
+import java.util.List;
 
 @Entity
 public class Person {
 
-    private ExtendedNames name;
+
+    private String name;
     @Id
     private int id;
 
-    public ExtendedNames getName() {
+    @OneToMany(mappedBy = "person")
+    private List<Cars> Cars = new ArrayList<>();
+
+    public Person() {
+    }
+
+    public List<Cars> getCars() {
+        return Cars;
+    }
+
+    public void setCars(List<Cars> cars) {
+        Cars = cars;
+    }
+
+    public String getName() {
         return name;
     }
 
-    public void setName(ExtendedNames name) {
+    public void setName(String name) {
         this.name = name;
     }
 

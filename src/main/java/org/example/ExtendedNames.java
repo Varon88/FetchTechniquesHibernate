@@ -2,7 +2,7 @@ package org.example;
 
 import jakarta.persistence.Embeddable;
 
-@Embeddable
+
 public class ExtendedNames {
 
     private String FName;

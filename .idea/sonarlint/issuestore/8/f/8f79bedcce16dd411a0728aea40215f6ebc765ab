@@ -3,3 +3,5 @@ l	java:S117"QRename this local variable to match the regular expression '^[a-
 r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†š£ıÿÿÿÿ8ÂĞÙ¤1
 q	java:S116"PRename this field "FName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÓÁœşÿÿÿÿ8‰ªËÙ¤1
 q	java:S116	"PRename this field "LName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¹±óıÿÿÿÿ8ŠªËÙ¤1
+]
+java:S1128";Remove this unused import 'jakarta.persistence.Embeddable'.(€ÊÖÎşÿÿÿÿ8¼Õ¿¥1
