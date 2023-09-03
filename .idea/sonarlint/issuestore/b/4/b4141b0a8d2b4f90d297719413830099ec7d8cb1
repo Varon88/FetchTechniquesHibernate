@@ -1,31 +1,7 @@
 
-e
-java:S1192"HDefine a constant instead of duplicating this literal "Ferrari" 3 times.(úå¼ˆ8Æà“ƒ¥1
-k
-java:S1192"IDefine a constant instead of duplicating this literal "Mercedes" 3 times.(ÞÔ‹Õùÿÿÿÿ8Æà“ƒ¥1
-g
-java:S2095S"EUse try-with-resources or close this "Session" in a "finally" clause.(´Ï‚‘ùÿÿÿÿ8Óà“ƒ¥1
-]	java:S125-"<This block of commented-out lines of code should be removed.(Ý¥’Üøÿÿÿÿ8Öà“ƒ¥1
-]	java:S1259"<This block of commented-out lines of code should be removed.(šÂŽüøÿÿÿÿ8×à“ƒ¥1
-X	java:S125D"<This block of commented-out lines of code should be removed.(â®–8×à“ƒ¥1
-X	java:S125N"<This block of commented-out lines of code should be removed.(ìï»¤8Øà“ƒ¥1
-Q
-java:S1874Z"4Remove this use of "saveOrUpdate"; it is deprecated.(Ù„¬é8Þà“ƒ¥1
 I
-java:S1874[",Remove this use of "save"; it is deprecated.(ðÿ›8Þà“ƒ¥1
-N
-java:S1874]",Remove this use of "save"; it is deprecated.(åŒšžûÿÿÿÿ8Þà“ƒ¥1
-Q
-java:S1874a"4Remove this use of "saveOrUpdate"; it is deprecated.(‡‹Þ¸8ßà“ƒ¥1
+java:S1874"",Remove this use of "save"; it is deprecated.(ðÿ›8­ÀöÏ¥1
 I
-java:S1874b",Remove this use of "save"; it is deprecated.(ê’íÖ8ßà“ƒ¥1
+java:S1874#",Remove this use of "save"; it is deprecated.(ê’íÖ8­ÀöÏ¥1
 I
-java:S1874d",Remove this use of "save"; it is deprecated.(öÍ º8ßà“ƒ¥1
-X	java:S125f"<This block of commented-out lines of code should be removed.(®öÅ˜8ßà“ƒ¥1
-P
-java:S1874h"4Remove this use of "saveOrUpdate"; it is deprecated.(€Èõf8ßà“ƒ¥1
-N
-java:S1874i",Remove this use of "save"; it is deprecated.(Óìîþÿÿÿÿ8ßà“ƒ¥1
-N
-java:S1874k",Remove this use of "save"; it is deprecated.(ÐÉƒ¼ùÿÿÿÿ8ßà“ƒ¥1
-X	java:S125~"<This block of commented-out lines of code should be removed.(®öÅ˜8àà“ƒ¥1
+java:S1874$",Remove this use of "save"; it is deprecated.(ŠÓ¤Ñ8­ÀöÏ¥1
